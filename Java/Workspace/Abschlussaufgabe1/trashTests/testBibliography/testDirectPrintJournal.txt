@@ -1,0 +1,4 @@
+add author Edsger,Dijkstra
+direct print journal ieee:Edsger Dijkstra,,,Go To Statement Considered Harmful,Comm. of the ACM,1968
+direct print journal chicago:Edsger Dijkstra,,,Go To Statement Considered Harmful,Comm. of the ACM,1968
+quit

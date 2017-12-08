@@ -1,0 +1,13 @@
+add author Eniola,Lowry
+add author Richard,Rhinelander
+add author Shashi,Afolabi
+add conference series ICSA
+add conference ICSA,2017,Gothenburg
+add journal TSE,IEEE
+add article to series ICSA:rr2017,2017,Components still have no interfaces
+add article to journal TSE:mvp2015,2015,Model Consistency
+add article to journal TSE:mvp2016,2016,Better Model Consistency
+written-by rr2017,Richard Rhinelander
+written-by mvp2016,Shashi Afolabi;Eniola Lowry
+written-by mvp2015,Shashi Afolabi;Richard Rhinelander
+quit

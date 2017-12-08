@@ -1,0 +1,7 @@
+add conference series ICSA
+add conference ICSA,2017,Gothenburg
+add journal TSE,IEEE
+add article to series ICSA:rr2017,2017,Components still have no interfaces
+add article to journal TSE:mvp2015,2015,Model Consistency
+add article to journal TSE:mvp2016,2016,Better Model Consistency
+quit

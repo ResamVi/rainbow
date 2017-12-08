@@ -1,0 +1,7 @@
+wip/
+node_modules/
+build/package.json
+build/web2exe.json
+releases/
+build/assets/background2.png
+build/assets/ignition2.mp3

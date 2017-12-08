@@ -1,0 +1,12 @@
+add conference series ICSA
+add conference series QoSA
+add conference ICSA,2017,Gothenburg
+add conference QoSA,2015,Eminemcity
+add article to series ICSA:rr2017,2017,Components
+add article to series QoSA:bspblication2015a,2015,Components have no interfaces
+add article to series QoSA:bspblication2015b,2015,Components still have no interfaces
+in proceedings ICSA,2017
+in proceedings QoSA,2016
+in proceedings uksa,2016
+in proceedings QoSA,2015
+quit

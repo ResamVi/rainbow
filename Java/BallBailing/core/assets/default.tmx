@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="80" tilewidth="16" tileheight="16" nextobjectid="27">
+ <tileset firstgid="1" name="set" tilewidth="16" tileheight="16">
+  <image source="tileset.png" width="768" height="576"/>
+  <tile id="130">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="131">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="178">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="179">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="226">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="227">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="274">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="275">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="322">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="323">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="592">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="593">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="594">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="595">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="640">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="641">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="643">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="688">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="689">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="691">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+  <tile id="739">
+   <properties>
+    <property name="block" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Kachelebene 1" width="40" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2slS1EAcgPEk+ALisHhEBbcq9RUY0Zor4L4cfQDX8qoz7nrxFbx4VAcEt4MLuBX6DIoKbgdUcCuXr6s7RRMnM8kwJrH8H36VVIpOvnQyU0wqY47jPMFTnHbjuc2YO7iLexjBKO7jAR4aj/AYX/EN37Gd8Ttcva2SMdP1E79w3Y1vinEf8BGfMI0ZfMYX61h+00rGrMIP67iOG76ulkWU0O05zmtXe4O3eFfFUXRgCZZiGTrRheVY4eoev2k1TmEXdmMN1mJdlfVN3ty+PNajBxuwMWTbM8Y+Ry/60K/2hc3Ygq3Y5s5ew52m6xrO4pw6P3VslKylva3fm9u3l/V92I8DOIhDIdsWWo1qHoso4RiO4wROmvlS9+kZ07UAN3ELVzytbATXpwLzd8n70/mmyroDjWUMYBBXMYRhM1/qPr2BPYa6Du/VOE8bN4LrHV59fRc8zW9s9nTjC7zEK0xg0rqX1T0x7WrqOgxWOXef31Vvn9+YN405tKAVbWjHCD2jrr4nOo0obVH6ouzDv9aVPkP+nM240ff1N/rCPlf+nHXF2Nd8++K2z0e1vlptSTTG6UtqzqQv+b402qL2Jfl5rbcvjba495/0SZ/0ZadN+qQvbdInfdInfdKnl2n3SN//3bcoA022Mk0D/9D8pd0jfdKXJVnvi/L9MsT/C8MZef5X6W8maJvMcF+apE/6pE/6pE/6pE/6pE/6siQrfWG/cbLSF/YbJyt9Wb++je5rbtLPCnNoQSva0G5Jq69WW8FoRGOwL8q8+MK6DhuNaLT7ijX6CgF2q9110WhEo99XNvLm+tmdwfVq57C4gkKd41Sf/3yol++evhj6EzLu6Pefj3j6vfKoignJqXfSWV72Zt81j6KckB71TjrL39I2DTA=
+  </data>
+ </layer>
+ <objectgroup name="collision">
+  <object id="4" x="468" y="24" width="171" height="61"/>
+  <object id="5" x="609" y="85" width="29" height="1195"/>
+  <object id="6" x="608" y="1232" height="5"/>
+  <object id="7" x="0" y="1233" width="609" height="71"/>
+  <object id="10" x="0" y="18" width="30" height="1215"/>
+  <object id="11" x="0" y="18" width="240"/>
+  <object id="12" x="357" y="77" width="45" height="4"/>
+  <object id="14" x="397" y="65" width="14" height="14"/>
+  <object id="15" x="406" y="56" width="16" height="14"/>
+  <object id="16" x="418" y="46" width="13" height="13"/>
+  <object id="17" x="428" y="34" width="17" height="19"/>
+  <object id="18" x="443" y="27" width="29" height="14"/>
+  <object id="19" x="240" y="13" width="8" height="13"/>
+  <object id="20" x="248" y="20" width="8" height="17"/>
+  <object id="21" x="256" y="28" width="11" height="21"/>
+  <object id="22" x="265" y="36" width="12" height="22"/>
+  <object id="23" x="272" y="50" width="12" height="19"/>
+  <object id="25" x="351" y="10" width="1" height="74"/>
+  <object id="26" x="288" y="13" height="57"/>
+ </objectgroup>
+</map>

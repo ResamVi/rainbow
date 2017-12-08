@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 4f58f1edf972e33418d3cec12fc2b102
+timeCreated: 1441875004
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: list_0
+    21300002: list_1
+    21300004: list_2
+    21300006: list_3
+    21300008: list_4
+    21300010: list_5
+    21300012: list_6
+    21300014: list_7
+    21300016: list_8
+    21300018: list_9
+    21300020: list_10
+    21300022: list_11
+    21300024: list_12
+    21300026: list_13
+    21300028: list_14
+    21300030: list_15
+    21300032: list_16
+    21300034: list_17
+    21300036: list_18
+    21300038: list_19
+    21300040: list_20
+    21300042: list_21
+    21300044: list_22
+    21300046: list_23
+    21300048: list_24
+    21300050: list_25
+    21300052: list_26
+    21300054: list_27
+    21300056: list_28
+    21300058: list_29
+    21300060: list_30
+    21300062: list_31
+    21300064: list_32
+    21300066: list_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: list_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_9
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_10
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_11
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 478
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_20
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_22
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 248
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_28
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_30
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_32
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_33
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 18
+        width: 110
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

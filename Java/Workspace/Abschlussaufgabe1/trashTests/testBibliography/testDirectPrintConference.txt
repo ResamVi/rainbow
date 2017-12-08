@@ -1,0 +1,5 @@
+add author Sergey,Brin
+add author Lawrence,Page
+direct print conference ieee:Sergey Brin,Lawrence Page,,The Anatomy of a Large-Scale Hypertextual Web Search Engine,WWW,Brisbane Australia,1998
+direct print conference chicago:Sergey Brin,Lawrence Page,,The Anatomy of a Large-Scale Hypertextual Web Search Engine,WWW,Brisbane Australia,1998
+quit

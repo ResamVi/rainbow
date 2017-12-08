@@ -1,0 +1,25 @@
+Q: "Final Flash" - Mage roots himself for XY seconds. A small laser beam appears
+With a XY channel. After the channel he blasts a huge beam reaching to the corner
+of the screen. He himself is pushed in to the opposite direction.
+CD:
+Damage:
+Mana:
+
+
+W: "Sonic's Shield" - A shield for a YZ duration. Auto attacks bounce off of it.
+CD:
+Damage:
+Mana:
+
+E: "Amassed Atonement" - Self sacrifice. Blasts everything in a AZ radius swirling everything
+around.
+CD:
+Damage:
+Radius:
+Mana:
+
+R: "Teleport" - Teleports.
+CD:
+Distance:
+Mana:
+

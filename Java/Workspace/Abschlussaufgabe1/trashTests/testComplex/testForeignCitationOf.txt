@@ -1,0 +1,20 @@
+add author a,a
+add author b,b
+add author c,c
+add author d,d
+add conference series x
+add conference x,2010,xxx
+add journal y,yyy
+add article to series x:p0,2010,000
+add article to journal y:p1,2014,222
+add article to journal y:p2,2015,222
+add article to journal y:p3,2016,333
+written-by p0,a a
+written-by p1,a a;b b
+written-by p2,b b;c c
+written-by p3,c c;d d
+cites p1,p0
+cites p2,p0
+cites p3,p0
+foreign citations of a a
+quit

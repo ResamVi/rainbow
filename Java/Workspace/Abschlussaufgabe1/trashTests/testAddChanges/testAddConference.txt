@@ -1,0 +1,4 @@
+add conference series ICSA
+add conference ICSA,2017,Gothenburg
+add conference QoSA,2016,Venice
+quit

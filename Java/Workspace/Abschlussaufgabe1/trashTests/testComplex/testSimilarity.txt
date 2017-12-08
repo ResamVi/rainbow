@@ -1,0 +1,15 @@
+add conference series ICSA
+add conference series ICPE
+add conference ICSA,2017,Gothenburg
+add journal TSE,IEEE
+add article to series ICSA:rr2017,2017,Components still have no interfaces
+add article to journal TSE:mvp2015,2015,Model Consistency
+add article to journal TSE:mvp2016,2016,Better Model Consistency
+add article to journal TSE:sommerville2015,2015,Worse Model Consistency
+add keywords to pub sommerville2015:swe;reference;java;oop
+add keywords to pub mvp2016:mdsd;java;oop
+add keywords to pub rr2017:mdsd;components;java
+add keywords to journal TSE:swe
+add keywords to series ICSA:swe;performance
+similarity rr2017,mvp2016
+quit
