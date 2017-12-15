@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Test</title>
+    </head>
+
+    <body>
+        
+        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+        <div id="root">
+            <button v-bind:class="{one : active}" v-on:click="toggle">Toggle</button>
+            <button v-bind:class="{one : dactive}" v-on:click="toggle">Toggle</button>
+        </div>
+
+        <script>
+            let data = {
+                message: 'Hello World',
+                active: false,
+                dactive: true
+            }
+
+            new Vue({
+                el: '#root',
+                data: data,
+                methods: {
+                    toggle: function() {
+                        this.active = !this.active;
+                        this.dactive = !this.dactive;
+                    }
+                }
+            });
+        </script>
+
+        
+
+        <style>
+            .one {
+                color: red;
+            }
+        </style>
+    </body>
+
+</html>

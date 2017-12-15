@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Test</title>
+    </head>
+
+    <body>
+        
+        <div id="root">
+            <input type="text" id="input" v-model="message">
+            <input type="checkbox" id="input" v-model="checked">
+            <br />
+            <label>1</label>
+            <input type="checkbox" value="1" v-model="array">
+            <label>2</label>
+            <input type="checkbox" value="2" v-model="array">
+            <label>3</label>
+            <input type="checkbox" value="3" v-model="array">
+
+            <p>{{ message }}</p>
+            <p>{{ checked }}</p>
+            <p>{{ array }}</p>
+        </div>
+        
+            <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+        
+        
+        <script>
+            new Vue({
+                el: '#root',
+                data: {
+                    message: 'Hello World',
+                    checked: true,
+                    array: []
+                }
+            })
+        </script>
+    </body>
+
+</html>

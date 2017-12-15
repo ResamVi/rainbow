@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Test</title>
+    </head>
+
+    <body>
+        
+        <div id="root">
+            <ul>
+                <li v-for="name in message">
+                     {{ name }}
+                </li>
+
+                <input type="text" v-model="name">
+                <button v-on:click="push">Add name</button>
+            </ul>
+        </div>
+        
+        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+        <script>
+            let data = {
+                message: ['Hello World', "Hi, back", "lol"],
+                name: 'Lol'
+            }
+
+            new Vue({
+                el: "#root",
+                data: data,
+
+                methods: {
+                    push: function() {
+                        data.message.push(this.name);
+                    }
+                }
+            });
+        </script>
+    </body>
+
+</html>
